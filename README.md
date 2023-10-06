@@ -22,7 +22,7 @@ pip install PyQt5
 ## Usage
 #### 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/mohitmungra/GUI_Calculator_Using_PyQt.git
 cd GUI_calculator_pyQt5
 ```
 #### 2. Run the calculator application:
